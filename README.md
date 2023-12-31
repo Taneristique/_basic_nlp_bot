@@ -5,5 +5,5 @@ how it works exactly when you executed the bot.Do steps below then fill example.
 to reuse or improve it. 
 
 # quick start 
-git clone "https://github.com/Taneristique/_basic_nlp_bot.git"
+git clone "https://github.com/Taneristique/_basic_nlp_bot.git"<br>
 pip install -r requirements.txt 
