@@ -4,6 +4,6 @@ It is a simple telegram bot that takes inputs in english language and vectorizes
 how it works exactly when you executed the bot.Do steps below then fill example.env file out and rename it as .env before forgetting please read and include MIT license in case you want 
 to reuse or improve it. 
 
-#quick start 
+# quick start 
 git clone "https://github.com/Taneristique/_basic_nlp_bot.git"
 pip install -r requirements.txt 
